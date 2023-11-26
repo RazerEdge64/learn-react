@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04f96111-81af-4b5b-83ca-20ab81ee6978" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/pages/qcomps/bios.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/qcomps/bios.js" afterDir="false" />
-    </list>
+    <list default="true" id="04f96111-81af-4b5b-83ca-20ab81ee6978" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701033554281</updated>
-      <workItem from="1701033555391" duration="2264000" />
+      <workItem from="1701033555391" duration="3065000" />
     </task>
     <servers />
   </component>
